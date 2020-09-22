@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\Point-2D-3D\bin\Debug\netcoreapp3.1\Point-2D-3D.exe
+C:\Users\Administrator\source\repos\Point-2D-3D\bin\Debug\netcoreapp3.1\Point-2D-3D.deps.json
+C:\Users\Administrator\source\repos\Point-2D-3D\bin\Debug\netcoreapp3.1\Point-2D-3D.runtimeconfig.json
+C:\Users\Administrator\source\repos\Point-2D-3D\bin\Debug\netcoreapp3.1\Point-2D-3D.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Point-2D-3D\bin\Debug\netcoreapp3.1\Point-2D-3D.dll
+C:\Users\Administrator\source\repos\Point-2D-3D\bin\Debug\netcoreapp3.1\Point-2D-3D.pdb
+C:\Users\Administrator\source\repos\Point-2D-3D\obj\Debug\netcoreapp3.1\Point-2D-3D.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Point-2D-3D\obj\Debug\netcoreapp3.1\Point-2D-3D.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Point-2D-3D\obj\Debug\netcoreapp3.1\Point-2D-3D.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Point-2D-3D\obj\Debug\netcoreapp3.1\Point-2D-3D.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Point-2D-3D\obj\Debug\netcoreapp3.1\Point-2D-3D.dll
+C:\Users\Administrator\source\repos\Point-2D-3D\obj\Debug\netcoreapp3.1\Point-2D-3D.pdb
+C:\Users\Administrator\source\repos\Point-2D-3D\obj\Debug\netcoreapp3.1\Point-2D-3D.genruntimeconfig.cache
